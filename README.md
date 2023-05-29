@@ -3,7 +3,7 @@
 # portifolio-gabirelf
 # Olá! Seja bem-vindo ao meu primeiro portifólio, criado e desenvolvido com os cursos de HTML5 e CSS da Alura.
 
-12![image](https://github.com/gabirelf/portifolio-gabirelf/assets/116076396/219e6768-533e-4f14-93d2-9e8bb1246889)
+![Captura de Tela 2023-05-29 às 11 46 05](https://github.com/gabirelf/portifolio-gabirelf/assets/116076396/7face234-fbae-4176-a853-bffe11b82e8a)
 
 ## FERRAMENTAS UTILIZADAS:
 

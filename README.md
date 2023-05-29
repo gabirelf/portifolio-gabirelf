@@ -10,7 +10,8 @@
 * CSS
 * Flex-Box
 
-## Feito por Gabriel Santos
+## Feito por
+
 ### Gabriel Santos
 ### LinkedIn: https://www.linkedin.com/in/gabirelfo/
 
